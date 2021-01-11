@@ -28,7 +28,7 @@ DEBUG = False
 if DEBUG:
     ALLOWED_HOSTS = []
 else:
-    ALLOWED_HOSTS = ['167.99.221.24']
+    ALLOWED_HOSTS = ['docs.codedfactory.com']
 
 
 # Application definition
