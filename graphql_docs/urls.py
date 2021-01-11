@@ -9,4 +9,3 @@ urlpatterns = [
     path('docs/<project_slug>/', voyager, name="voyager"),
 
 ]
-voyager
